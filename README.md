@@ -1,3 +1,3 @@
 # Third-assignment
 
-http://gitver.github.io/Thirdassignment/
+Link to the third assignment: http://gitver.github.io/Thirdassignment/
